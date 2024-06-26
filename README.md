@@ -1,3 +1,3 @@
-## Learning Clerk
+## Clerk Authentication
 
 Testing Clerk's migration script 
